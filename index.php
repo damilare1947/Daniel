@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="utf-8">
-    <title>hotelsng</title>
+    <title>hotelsngreal</title>
     <link href="/daniel/css/default.css" rel="stylesheet" type="text/css"/>
   </head>
   <body>
