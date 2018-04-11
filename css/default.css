@@ -1,0 +1,28 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+body{
+  background-color:#ff8533;
+}
+.style1{
+  color:navy;
+  font-size: 40px;
+  margin-top:250px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align:center;
+  
+}
+.style2{
+  color:red;
+  font-size:32px;
+  font-family:Roboto;
+  margin-top:10px;
+  text-align:center;
+}
+.style3{
+  color:black;
+  font-size:20px;
+  margin-top:10px;
+  text-align:center;
+}
